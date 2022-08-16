@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Saner</h1>
 <h3 align="center">Data science and Machine learning ethusiast</h3>
-<img align = "right" width = "400" https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif alt="coding" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashrisaner&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashrisaner" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashrisaner&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashrisaner" /> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanashrisaner" alt="dhanashrisaner" /></a> </p>
 
 - 🔭 I’m currently working on [House price prediction project](https://github.com/DhanashriSaner/Home_price_prediction)
