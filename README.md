@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🔭 I’m currently working on [House price prediction project](https://github.com/DhanashriSaner/End_to_End_movie_recommender_system)
+- 🔭 I’m currently working on [Movie Recommendation System Project](https://github.com/DhanashriSaner/End_to_End_movie_recommender_system)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Heroku**
 
 - 💬 Ask me about **Machine learning**
 
