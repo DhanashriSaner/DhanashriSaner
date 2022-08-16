@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Saner</h1>
 <h3 align="center">Data science and Machine learning ethusiast</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashrisaner&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashrisaner" /> </p>
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
@@ -12,6 +12,7 @@
 - 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **dhanashrisaner442@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
