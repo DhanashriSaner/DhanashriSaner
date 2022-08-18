@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Used Car Price Prediction](https://github.com/DhanashriSaner/End_To_End_ML_Project)
 
-- 🌱 I’m currently learning **Heroku**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **Machine learning**
 
