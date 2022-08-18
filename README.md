@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🔭 I’m currently working on [Movie Recommender System](https://github.com/DhanashriSaner/End_to_End_movie_recommender_system)
+- 🔭 I’m currently working on [Used Car Price Prediction](https://github.com/DhanashriSaner/End_To_End_ML_Project)
 
 - 🌱 I’m currently learning **Heroku**
 
