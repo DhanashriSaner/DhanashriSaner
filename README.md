@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🔭 I’m currently working on [Used Car Price Prediction](https://github.com/DhanashriSaner/End_To_End_ML_Project)
+- 🔭 I’m currently working on [Power BI](https://github.com/DhanashriSaner/PowerBI_Sales_Dashboard)
 
 - 🌱 I’m currently learning **Artificial Intelligence & Deep Learning**
 
