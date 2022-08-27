@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Saner</h1>
-<h3 align="center">Data science and Machine learning ethusiast</h3>
+<h3 align="center">Data science and Machine learning enthusiast</h3>
 
 
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
