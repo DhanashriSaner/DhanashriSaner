@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🔭 I’m currently working on MLOps
+- 🔭 I’m currently working on **MLOps**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Deep Learning**
 
