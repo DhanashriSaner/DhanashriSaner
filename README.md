@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Saner</h1>
 <h3 align="center">Data Science and Machine Learning enthusiast</h3>
 
-
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-
 
 - 🔭 I’m currently working on [Cotton Plant Disease Detection Project Using Deep Learning](https://github.com/DhanashriSaner/Cotton_Plant_Disease_Detection)
 
