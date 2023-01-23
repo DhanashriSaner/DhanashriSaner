@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Cotton Plant Disease Detection Project Using Deep Learning](https://github.com/DhanashriSaner/Cotton_Plant_Disease_Detection)
 
-- 🌱 I’m currently learning **Artificial Intelligence & Deep Learning**
+- 🌱 I’m currently learning **Big Data**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Machine learning and Deep Learning**
 
 - 📫 How to reach me **dhanashrisaner442@gmail.com**
 <br>
