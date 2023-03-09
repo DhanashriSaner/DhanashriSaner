@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width = 400 src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on **Cloudera**
+ 
 
 - 🌱 I’m currently learning **Big Data**
 
@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/dhanashrisaner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhanashrisaner" height="30" width="40" /></a>
 <a href="https://instagram.com/dhanashri_saner_442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanashri_saner_442" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sesrc2_200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sesrc2_200" height="30" width="40" /></a>
-</p>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
