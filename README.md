@@ -5,7 +5,7 @@
 
  
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Snowflake**
 
 - 💬 Ask me about **Machine learning and Deep Learning**
 
