@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Snowflake**
 
-- 💬 Ask me about **Machine learning and Deep Learning**
+- 💬 Ask me about **Data Engineering**
 
-- 📫 How to reach me **dhanashrisaner442@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>
